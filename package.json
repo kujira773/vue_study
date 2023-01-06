@@ -5,7 +5,7 @@
     "devDependencies": {
         "babel-jest": "^26.1.0",
         "jest": "^26.1.0",
-        "vue-jest": "^3.0.6"
+        "vue-jest": "^4.0.1"
     },
     "jest": {
         "moduleFileExtensions": [
